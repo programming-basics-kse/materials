@@ -23,5 +23,5 @@ compiled list of valuable resources following our latest practice session.
    - [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
 5. **📖 Introduction to GitHub Course**
-   - An introductory course to GitHub conveniently copied to Google Docs for easy access.
+   - An introductory course to GitHub.
    - [Introduction to GitHub](https://github.com/education/github-starter-course)
