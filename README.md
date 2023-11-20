@@ -4,7 +4,7 @@
 
 ### 📚 Practice Session Resources
 
-compiled list of valuable resources following our latest practice session.
+Compiled list of valuable resources following our latest practice session.
 
 1. **🧹 Automatic Code Formatting in PyCharm**
    - Learn how to automatically reformat your code in PyCharm for a cleaner, more readable style.
@@ -25,3 +25,12 @@ compiled list of valuable resources following our latest practice session.
 5. **📖 Introduction to GitHub Course**
    - An introductory course to GitHub.
    - [Introduction to GitHub](https://github.com/education/github-starter-course)
+
+## 📌 17.11.2023
+
+### 📚 Practice Session Resources
+
+1. **PyCharm & GitHub**
+   - Step-by-step instructions for setting up & interacting with GitHub through PyCharm
+   - [Setup PyCharm & GitHub integration](docs/pycharm-github-integration/readme.md)
+   - [Clone Remote Repository](docs/pycharm-github-integration/clone_repo.md)
