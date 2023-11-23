@@ -1,2 +1,2 @@
-array = list(range(0,10))
+array = [0, 10]
 print(array)
