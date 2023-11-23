@@ -1,2 +1,2 @@
-array = [0, 10]
+array = [x for x in range(0,10)]
 print(array)
